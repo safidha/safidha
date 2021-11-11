@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @safidha
 - 👀 I’m interested in software engineer
-- 🌱 I’m currently learning master of computer science
+- 🌱 I’m recently completed master of computer science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
